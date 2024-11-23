@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732367881 source:c:\users\cdev\documents\craftinginterpreters\01\01-challenges\doublylinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
